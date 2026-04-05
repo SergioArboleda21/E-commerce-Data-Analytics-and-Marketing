@@ -8,3 +8,6 @@ parte de la historia sobre cómo los productos encuentran su camino hacia los ho
 Para desentrañar este misterio, hemos construido un tablero de control en Power BI que actúa 
 como nuestra brújula, permitiéndonos visualizar el origen de los visitantes, medir el impacto real 
 de nuestras promesas de marketing y mapear el complejo camino del embudo de conversión.
+
+Drive con power bi file and cvs.
+https://drive.google.com/drive/u/0/folders/13wtryMJNNoCj5qkrcHHxWWd1L5x5QBk8
